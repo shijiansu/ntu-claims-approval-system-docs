@@ -1,6 +1,6 @@
 # ntu-claims-approval-system-docs
 
-![](https://img.shields.io/badge/language-english-blue)
+![](https://img.shields.io/badge/language-markdown-blue)
 ![](https://img.shields.io/badge/technology-design-blue)
 ![](https://img.shields.io/badge/development%20year-2014-orange)
 
